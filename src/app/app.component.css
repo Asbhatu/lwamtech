@@ -1,0 +1,40 @@
+.left-nav {
+    background-color: green;
+    border-color: #E7E7E7;
+    padding: 0%;
+    margin: 0%;
+    height: 100%;
+}
+
+
+.content-nav {
+    background-color:gainsboro;
+    border-color: #E7E7E7;
+    padding: 0%;
+    margin: 0%;
+    height: 100%;
+}
+
+.right-nav {
+    background-color: yellow;
+    border-color: #E7E7E7;
+    padding: 0%;
+    margin: 0%;
+    height: 100%;
+}
+
+.container {
+    
+    border-color: #E7E7E7;
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+    height: 100%;
+}
+
+.lay-out {
+   
+ 
+    width: 100%;
+    height: 1100px;
+}
